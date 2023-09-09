@@ -52,6 +52,7 @@ button{
     box-shadow: 3px 6px 5px 0px rgba(217,227,254,0.75);
 -webkit-box-shadow: 3px 6px 5px 0px rgba(217,227,254,0.75);
 -moz-box-shadow: 3px 6px 5px 0px rgba(217,227,254,0.75);
+    font-weight: bold;
 }
 .form-container{
     margin-top: 25px;
